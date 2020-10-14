@@ -13,7 +13,7 @@
  *  for the specific language governing permissions and limitations under the License.
  */
 metadata {
-	definition (name: "HomeSeer WD100+ Dimmer", namespace: "Archer36", author: "Brett Barton", cstHandler: true) {
+	definition (name: "HomeSeer WD100+ Dimmer", namespace: "archer36", author: "Brett Barton", cstHandler: true) {
 		capability "Switch"
 		capability "Switch Level"
 		capability "Button"
